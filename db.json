@@ -41,6 +41,12 @@
       "description": "Treadmill Parts For Free",
       "image": "./images/treadmill.jpg",
       "location": "East Flatbush"
+    },
+    {
+      "description": "Dress Shoes",
+      "image": "https://bluesoleshoes.com/wp-content/uploads/2021/03/3204129-copy-1.jpg",
+      "location": "Queens",
+      "id": 8
     }
   ]
 }
